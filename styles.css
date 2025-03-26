@@ -1,0 +1,26 @@
+main {
+    width: 500px;
+    margin: 50px auto 0 auto; 
+    padding: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(160, 194, 110);
+    border-radius: 10px;
+}
+
+form {
+    padding: 20px;
+    background-color: rgb(176, 199, 143);
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.txt {
+    background-color: rgb(190, 233, 129);
+    border-color: rgb(144, 177, 98);
+}
+
+.btn {
+    background-color: rgb(190, 233, 129);
+    border-color: rgb(144, 177, 98);
+    border-radius: 5px;
+}
